@@ -5,6 +5,6 @@ identification of heterogenous treatment effects (Generalized Random Forests fra
 understandable graphs. 
 The following files are contained:
 - ```instructions.pdf```: Outlining the task
-- ```report.pdf ```: The final report describing results and methodology
+- ```report.pdf```: The final report describing results and methodology
 - ```code/genderinequality.csv```: The dataset to be analyzed
 - ```code/ML_CODE_FNETT.R```: The code implementing the analysis. All results and graphs used in report.pdf are produced here. To replicate update the working directory and leave the folder structure intact.
